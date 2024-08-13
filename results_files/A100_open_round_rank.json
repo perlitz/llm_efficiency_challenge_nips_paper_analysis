@@ -1,0 +1,1154 @@
+[
+    [
+        "percent_bfd_neurips_submission_neurips_submission_2",
+        {
+            "MMLU - EM": 0.6733333333333335,
+            "TruthfulQA - EM": 1.0,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.42105263157894735,
+            "BIG-bench - EM": 0.39439826839826836,
+            "Accuracy Mean Win Rate": 0.834920634920635,
+            "MMLU - EM (Robustness)": 0.6448484848484849,
+            "TruthfulQA - EM (Robustness)": 1.0,
+            "Robustness Mean Win Rate": 0.9047619047619048,
+            "MMLU - EM (Fairness)": 0.6372727272727272,
+            "TruthfulQA - EM (Fairness)": 1.0,
+            "Fairness Mean Win Rate": 0.8888888888888888,
+            "Score": 0.8756737400482785
+        }
+    ],
+    [
+        "ranchlaia100_track_nips2023_finalsubmission1",
+        {
+            "MMLU - EM": 0.7003144654088052,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.47368421052631576,
+            "BIG-bench - EM": 0.5331002886002884,
+            "Accuracy Mean Win Rate": 0.9333333333333333,
+            "MMLU - EM (Robustness)": 0.6430817610062894,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.8253968253968254,
+            "MMLU - EM (Fairness)": 0.6283018867924528,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.7936507936507937,
+            "Score": 0.8487432666290685
+        }
+    ],
+    [
+        "facicosubmission3",
+        {
+            "MMLU - EM": 0.6996969696969697,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.7894736842105263,
+            "BIG-bench - EM": 0.33645129870129864,
+            "Accuracy Mean Win Rate": 0.8222222222222222,
+            "MMLU - EM (Robustness)": 0.6590909090909092,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.8253968253968254,
+            "MMLU - EM (Fairness)": 0.6809090909090909,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.8412698412698413,
+            "Score": 0.8295879621557556
+        }
+    ],
+    [
+        "facicosubmission2",
+        {
+            "MMLU - EM": 0.6936363636363636,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.7894736842105263,
+            "BIG-bench - EM": 0.3465948773448772,
+            "Accuracy Mean Win Rate": 0.8095238095238095,
+            "MMLU - EM (Robustness)": 0.6590909090909092,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.8095238095238095,
+            "MMLU - EM (Fairness)": 0.69,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.8650793650793651,
+            "Score": 0.8276341494876083
+        }
+    ],
+    [
+        "facicosubmission1",
+        {
+            "MMLU - EM": 0.6936363636363636,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.7368421052631579,
+            "BIG-bench - EM": 0.3012561327561327,
+            "Accuracy Mean Win Rate": 0.8253968253968254,
+            "MMLU - EM (Robustness)": 0.6627272727272729,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.8253968253968254,
+            "MMLU - EM (Fairness)": 0.6809090909090909,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.8174603174603174,
+            "Score": 0.8227427979890242
+        }
+    ],
+    [
+        "percent_bfd_neurips_submission_neurips_submission_1",
+        {
+            "MMLU - EM": 0.6536363636363637,
+            "TruthfulQA - EM": 1.0,
+            "BBQ - EM": 0.6666666666666666,
+            "GSM8K - EM": 0.47368421052631576,
+            "BIG-bench - EM": 0.3724686147186148,
+            "Accuracy Mean Win Rate": 0.746031746031746,
+            "MMLU - EM (Robustness)": 0.6206060606060607,
+            "TruthfulQA - EM (Robustness)": 1.0,
+            "Robustness Mean Win Rate": 0.8412698412698412,
+            "MMLU - EM (Fairness)": 0.6333333333333332,
+            "TruthfulQA - EM (Fairness)": 1.0,
+            "Fairness Mean Win Rate": 0.873015873015873,
+            "Score": 0.8182856268685178
+        }
+    ],
+    [
+        "anmolagarwal999_neurips_effeciency_challenge_2023_submission_run_inference_3_lit_gpt",
+        {
+            "MMLU - EM": 0.6251515151515152,
+            "TruthfulQA - EM": 1.0,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.2631578947368421,
+            "BIG-bench - EM": 0.40643398268398273,
+            "Accuracy Mean Win Rate": 0.8,
+            "MMLU - EM (Robustness)": 0.6154545454545456,
+            "TruthfulQA - EM (Robustness)": 1.0,
+            "Robustness Mean Win Rate": 0.8095238095238095,
+            "MMLU - EM (Fairness)": 0.6154545454545456,
+            "TruthfulQA - EM (Fairness)": 1.0,
+            "Fairness Mean Win Rate": 0.8095238095238095,
+            "Score": 0.8063366749124632
+        }
+    ],
+    [
+        "ranchlaia100_track_nips2023_finalsubmission3",
+        {
+            "MMLU - EM": 0.6593939393939396,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.3684210526315789,
+            "BIG-bench - EM": 0.45654834054834026,
+            "Accuracy Mean Win Rate": 0.8539682539682539,
+            "MMLU - EM (Robustness)": 0.6193939393939396,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.7936507936507937,
+            "MMLU - EM (Fairness)": 0.6036363636363636,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.7380952380952381,
+            "Score": 0.793830647070071
+        }
+    ],
+    [
+        "anmolagarwal999_neurips_effeciency_challenge_2023_submission_run_inference_2",
+        {
+            "MMLU - EM": 0.6251515151515152,
+            "TruthfulQA - EM": 1.0,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.2631578947368421,
+            "BIG-bench - EM": 0.40643398268398273,
+            "Accuracy Mean Win Rate": 0.7841269841269841,
+            "MMLU - EM (Robustness)": 0.6154545454545456,
+            "TruthfulQA - EM (Robustness)": 1.0,
+            "Robustness Mean Win Rate": 0.7936507936507936,
+            "MMLU - EM (Fairness)": 0.6154545454545456,
+            "TruthfulQA - EM (Fairness)": 1.0,
+            "Fairness Mean Win Rate": 0.7936507936507936,
+            "Score": 0.7904634067241427
+        }
+    ],
+    [
+        "anmolagarwal999_neurips_effeciency_challenge_2023_submission_run_inference_1",
+        {
+            "MMLU - EM": 0.6251515151515152,
+            "TruthfulQA - EM": 1.0,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.2631578947368421,
+            "BIG-bench - EM": 0.42020382395382383,
+            "Accuracy Mean Win Rate": 0.7777777777777778,
+            "MMLU - EM (Robustness)": 0.6154545454545456,
+            "TruthfulQA - EM (Robustness)": 1.0,
+            "Robustness Mean Win Rate": 0.7777777777777778,
+            "MMLU - EM (Fairness)": 0.6154545454545456,
+            "TruthfulQA - EM (Fairness)": 1.0,
+            "Fairness Mean Win Rate": 0.7777777777777778,
+            "Score": 0.7777777777777778
+        }
+    ],
+    [
+        "ranchlaia100_track_nips2023_finalsubmission2",
+        {
+            "MMLU - EM": 0.6651515151515153,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.42105263157894735,
+            "BIG-bench - EM": 0.4713892496392495,
+            "Accuracy Mean Win Rate": 0.8603174603174603,
+            "MMLU - EM (Robustness)": 0.6118181818181818,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.7301587301587301,
+            "MMLU - EM (Fairness)": 0.5987878787878789,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.7222222222222222,
+            "Score": 0.7683910343560364
+        }
+    ],
+    [
+        "mrigankramanllm_compa100_submissionsa100_1st_submission",
+        {
+            "MMLU - EM": 0.6993939393939396,
+            "TruthfulQA - EM": 0.6666666666666666,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.631578947368421,
+            "BIG-bench - EM": 0.34413636363636363,
+            "Accuracy Mean Win Rate": 0.7746031746031745,
+            "MMLU - EM (Robustness)": 0.68,
+            "TruthfulQA - EM (Robustness)": 0.6666666666666666,
+            "Robustness Mean Win Rate": 0.7301587301587301,
+            "MMLU - EM (Fairness)": 0.6933333333333335,
+            "TruthfulQA - EM (Fairness)": 0.6666666666666666,
+            "Fairness Mean Win Rate": 0.746031746031746,
+            "Score": 0.7500403383945017
+        }
+    ],
+    [
+        "mrigankramanllm_compa100_submissionsa100_2nd_submission",
+        {
+            "MMLU - EM": 0.6993939393939396,
+            "TruthfulQA - EM": 0.6666666666666666,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.5263157894736842,
+            "BIG-bench - EM": 0.3423755411255411,
+            "Accuracy Mean Win Rate": 0.7714285714285715,
+            "MMLU - EM (Robustness)": 0.68,
+            "TruthfulQA - EM (Robustness)": 0.6666666666666666,
+            "Robustness Mean Win Rate": 0.746031746031746,
+            "MMLU - EM (Fairness)": 0.6872727272727275,
+            "TruthfulQA - EM (Fairness)": 0.6666666666666666,
+            "Fairness Mean Win Rate": 0.7301587301587301,
+            "Score": 0.7490142901389826
+        }
+    ],
+    [
+        "lingjoor_research_llm_efficiency_submission",
+        {
+            "MMLU - EM": 0.6966666666666668,
+            "TruthfulQA - EM": 0.7777777777777778,
+            "BBQ - EM": 0.8333333333333334,
+            "GSM8K - EM": 0.10526315789473684,
+            "BIG-bench - EM": 0.0014285714285714286,
+            "Accuracy Mean Win Rate": 0.6444444444444445,
+            "MMLU - EM (Robustness)": 0.683939393939394,
+            "TruthfulQA - EM (Robustness)": 0.7777777777777778,
+            "Robustness Mean Win Rate": 0.8095238095238095,
+            "MMLU - EM (Fairness)": 0.6833333333333333,
+            "TruthfulQA - EM (Fairness)": 0.7777777777777778,
+            "Fairness Mean Win Rate": 0.7777777777777778,
+            "Score": 0.7403269293630692
+        }
+    ],
+    [
+        "gyuwon12_submission_v3_submission_v3_sample_submissions_llama_recipes",
+        {
+            "MMLU - EM": 0.6718181818181819,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.33040476190476187,
+            "Accuracy Mean Win Rate": 0.6285714285714286,
+            "MMLU - EM (Robustness)": 0.6418181818181817,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.7857142857142857,
+            "MMLU - EM (Fairness)": 0.6327272727272727,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.7857142857142857,
+            "Score": 0.7293925309962938
+        }
+    ],
+    [
+        "mrigankramanllm_compa100_submissionsa100_3rd_submission",
+        {
+            "MMLU - EM": 0.6772727272727274,
+            "TruthfulQA - EM": 0.6666666666666666,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.5789473684210527,
+            "BIG-bench - EM": 0.3377474747474748,
+            "Accuracy Mean Win Rate": 0.7523809523809524,
+            "MMLU - EM (Robustness)": 0.6681818181818183,
+            "TruthfulQA - EM (Robustness)": 0.6666666666666666,
+            "Robustness Mean Win Rate": 0.7222222222222222,
+            "MMLU - EM (Fairness)": 0.6736363636363637,
+            "TruthfulQA - EM (Fairness)": 0.6666666666666666,
+            "Fairness Mean Win Rate": 0.6904761904761905,
+            "Score": 0.7212499271675678
+        }
+    ],
+    [
+        "gyuwon12_submission_v2_submission_v2_sample_submissions_llama_recipes",
+        {
+            "MMLU - EM": 0.6718181818181819,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.32807142857142857,
+            "Accuracy Mean Win Rate": 0.6126984126984127,
+            "MMLU - EM (Robustness)": 0.6418181818181817,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.7698412698412698,
+            "MMLU - EM (Fairness)": 0.6327272727272727,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.7698412698412698,
+            "Score": 0.7134272788817723
+        }
+    ],
+    [
+        "hqbbzsp_nips_submission_a100_submission_of_a100_submission_1",
+        {
+            "MMLU - EM": 0.674848484848485,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 0.8888888888888888,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.526984126984127,
+            "MMLU - EM (Robustness)": 0.6430303030303031,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.8015873015873016,
+            "MMLU - EM (Fairness)": 0.6590909090909091,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.8412698412698413,
+            "Score": 0.7083173736903534
+        }
+    ],
+    [
+        "zsw256_nips_challenge_submission",
+        {
+            "MMLU - EM": 0.6951515151515152,
+            "TruthfulQA - EM": 0.6666666666666666,
+            "BBQ - EM": 0.7777777777777778,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.028253968253968257,
+            "Accuracy Mean Win Rate": 0.6317460317460317,
+            "MMLU - EM (Robustness)": 0.6687878787878789,
+            "TruthfulQA - EM (Robustness)": 0.6666666666666666,
+            "Robustness Mean Win Rate": 0.746031746031746,
+            "MMLU - EM (Fairness)": 0.6818181818181818,
+            "TruthfulQA - EM (Fairness)": 0.6666666666666666,
+            "Fairness Mean Win Rate": 0.7380952380952381,
+            "Score": 0.7032948083578813
+        }
+    ],
+    [
+        "gromovandreymeta_neurips_sub2",
+        {
+            "MMLU - EM": 0.6900000000000002,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.5682539682539682,
+            "MMLU - EM (Robustness)": 0.644848484848485,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.8095238095238095,
+            "MMLU - EM (Fairness)": 0.6245454545454546,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.746031746031746,
+            "Score": 0.7001264268615396
+        }
+    ],
+    [
+        "hqbbzsp_nips_submission_a100_submission_of_a100_submission_2",
+        {
+            "MMLU - EM": 0.6951515151515152,
+            "TruthfulQA - EM": 0.7777777777777778,
+            "BBQ - EM": 0.8888888888888888,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.5079365079365079,
+            "MMLU - EM (Robustness)": 0.6693939393939394,
+            "TruthfulQA - EM (Robustness)": 0.7777777777777778,
+            "Robustness Mean Win Rate": 0.7698412698412698,
+            "MMLU - EM (Fairness)": 0.6915151515151515,
+            "TruthfulQA - EM (Fairness)": 0.7777777777777778,
+            "Fairness Mean Win Rate": 0.7857142857142857,
+            "Score": 0.6747741277809431
+        }
+    ],
+    [
+        "vinairesearch_vinai_neurips_llm_efficiency_submit_c",
+        {
+            "MMLU - EM": 0.6512121212121214,
+            "TruthfulQA - EM": 0.7777777777777778,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.6634920634920635,
+            "MMLU - EM (Robustness)": 0.6142424242424244,
+            "TruthfulQA - EM (Robustness)": 0.7777777777777778,
+            "Robustness Mean Win Rate": 0.6507936507936507,
+            "MMLU - EM (Fairness)": 0.6181818181818182,
+            "TruthfulQA - EM (Fairness)": 0.7777777777777778,
+            "Fairness Mean Win Rate": 0.6825396825396826,
+            "Score": 0.665480981655988
+        }
+    ],
+    [
+        "armelrandy_submission_a100_3",
+        {
+            "MMLU - EM": 0.6721212121212121,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.473015873015873,
+            "MMLU - EM (Robustness)": 0.6457575757575758,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.7857142857142857,
+            "MMLU - EM (Fairness)": 0.6563636363636364,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.7777777777777777,
+            "Score": 0.6611986602179324
+        }
+    ],
+    [
+        "hqbbzsp_nips_submission_a100_submission_of_a100_submission_3",
+        {
+            "MMLU - EM": 0.6921212121212124,
+            "TruthfulQA - EM": 0.7777777777777778,
+            "BBQ - EM": 0.8333333333333334,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.4952380952380952,
+            "MMLU - EM (Robustness)": 0.661818181818182,
+            "TruthfulQA - EM (Robustness)": 0.7777777777777778,
+            "Robustness Mean Win Rate": 0.746031746031746,
+            "MMLU - EM (Fairness)": 0.6763636363636364,
+            "TruthfulQA - EM (Fairness)": 0.7777777777777778,
+            "Fairness Mean Win Rate": 0.7380952380952381,
+            "Score": 0.6484770122975374
+        }
+    ],
+    [
+        "armelrandy_submission_a100_1",
+        {
+            "MMLU - EM": 0.6727272727272728,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.45396825396825397,
+            "MMLU - EM (Robustness)": 0.6245454545454544,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.7142857142857143,
+            "MMLU - EM (Fairness)": 0.6539393939393939,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.7619047619047619,
+            "Score": 0.6274792642407491
+        }
+    ],
+    [
+        "royson_neurips_llm_efficiency_challenge_submission_a100_submission_3",
+        {
+            "MMLU - EM": 0.5754545454545453,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.5936507936507937,
+            "MMLU - EM (Robustness)": 0.5303030303030302,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.6031746031746031,
+            "MMLU - EM (Fairness)": 0.5393939393939392,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.6428571428571428,
+            "Score": 0.612862231110584
+        }
+    ],
+    [
+        "vinairesearch_vinai_neurips_llm_efficiency_submit_a",
+        {
+            "MMLU - EM": 0.6303030303030304,
+            "TruthfulQA - EM": 0.7777777777777778,
+            "BBQ - EM": 0.8333333333333334,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.5428571428571428,
+            "MMLU - EM (Robustness)": 0.6054545454545454,
+            "TruthfulQA - EM (Robustness)": 0.7777777777777778,
+            "Robustness Mean Win Rate": 0.6111111111111112,
+            "MMLU - EM (Fairness)": 0.6242424242424243,
+            "TruthfulQA - EM (Fairness)": 0.7777777777777778,
+            "Fairness Mean Win Rate": 0.6825396825396826,
+            "Score": 0.6095058536790501
+        }
+    ],
+    [
+        "armelrandy_submission_a100_2",
+        {
+            "MMLU - EM": 0.675757575757576,
+            "TruthfulQA - EM": 0.7777777777777778,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.4444444444444444,
+            "MMLU - EM (Robustness)": 0.6433333333333334,
+            "TruthfulQA - EM (Robustness)": 0.7777777777777778,
+            "Robustness Mean Win Rate": 0.6825396825396826,
+            "MMLU - EM (Fairness)": 0.6503030303030303,
+            "TruthfulQA - EM (Fairness)": 0.7777777777777778,
+            "Fairness Mean Win Rate": 0.6825396825396826,
+            "Score": 0.5915949136075995
+        }
+    ],
+    [
+        "quyanh2005_neurips_llm_challenge_a100_qwen_14b_neurips_v1",
+        {
+            "MMLU - EM": 0.5478787878787879,
+            "TruthfulQA - EM": 0.8888888888888888,
+            "BBQ - EM": 0.6111111111111112,
+            "GSM8K - EM": 0.47368421052631576,
+            "BIG-bench - EM": 0.2389877344877345,
+            "Accuracy Mean Win Rate": 0.5968253968253968,
+            "MMLU - EM (Robustness)": 0.5381818181818181,
+            "TruthfulQA - EM (Robustness)": 0.8888888888888888,
+            "Robustness Mean Win Rate": 0.5793650793650793,
+            "MMLU - EM (Fairness)": 0.5275757575757576,
+            "TruthfulQA - EM (Fairness)": 0.8888888888888888,
+            "Fairness Mean Win Rate": 0.5952380952380952,
+            "Score": 0.5904232389700883
+        }
+    ],
+    [
+        "royson_neurips_llm_efficiency_challenge_submission_a100_submission_2",
+        {
+            "MMLU - EM": 0.6118181818181819,
+            "TruthfulQA - EM": 0.7777777777777778,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.5555555555555556,
+            "MMLU - EM (Robustness)": 0.55,
+            "TruthfulQA - EM (Robustness)": 0.7777777777777778,
+            "Robustness Mean Win Rate": 0.5,
+            "MMLU - EM (Fairness)": 0.5727272727272726,
+            "TruthfulQA - EM (Fairness)": 0.7777777777777778,
+            "Fairness Mean Win Rate": 0.5476190476190476,
+            "Score": 0.5338165263868976
+        }
+    ],
+    [
+        "mrjungle1_neurips_llm_efficiency_challenge_submission_a100_01",
+        {
+            "MMLU - EM": 0.657878787878788,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.6111111111111112,
+            "GSM8K - EM": 0.5263157894736842,
+            "BIG-bench - EM": 0.40462157287157274,
+            "Accuracy Mean Win Rate": 0.6349206349206349,
+            "MMLU - EM (Robustness)": 0.6169696969696972,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.5158730158730158,
+            "MMLU - EM (Fairness)": 0.5975757575757578,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.45238095238095233,
+            "Score": 0.5291622502953447
+        }
+    ],
+    [
+        "kowndinya_renduchintala_efficientguys23",
+        {
+            "MMLU - EM": 0.6436363636363638,
+            "TruthfulQA - EM": 0.6666666666666666,
+            "BBQ - EM": 0.6666666666666666,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.032857142857142856,
+            "Accuracy Mean Win Rate": 0.47619047619047616,
+            "MMLU - EM (Robustness)": 0.5942424242424243,
+            "TruthfulQA - EM (Robustness)": 0.6666666666666666,
+            "Robustness Mean Win Rate": 0.49206349206349204,
+            "MMLU - EM (Fairness)": 0.6048484848484849,
+            "TruthfulQA - EM (Fairness)": 0.6666666666666666,
+            "Fairness Mean Win Rate": 0.5396825396825397,
+            "Score": 0.5019341435031649
+        }
+    ],
+    [
+        "royson_neurips_llm_efficiency_challenge_submission_a100_submission_1",
+        {
+            "MMLU - EM": 0.6063636363636362,
+            "TruthfulQA - EM": 0.7777777777777778,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.5365079365079365,
+            "MMLU - EM (Robustness)": 0.5596969696969697,
+            "TruthfulQA - EM (Robustness)": 0.7777777777777778,
+            "Robustness Mean Win Rate": 0.5238095238095238,
+            "MMLU - EM (Fairness)": 0.5033333333333333,
+            "TruthfulQA - EM (Fairness)": 0.7777777777777778,
+            "Fairness Mean Win Rate": 0.4444444444444444,
+            "Score": 0.4998683900968559
+        }
+    ],
+    [
+        "tradertanmay_llama_recipes_submission1",
+        {
+            "MMLU - EM": 0.6300000000000001,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0009090909090909091,
+            "Accuracy Mean Win Rate": 0.5365079365079365,
+            "MMLU - EM (Robustness)": 0.6042424242424242,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.46031746031746035,
+            "MMLU - EM (Fairness)": 0.603939393939394,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.4920634920634921,
+            "Score": 0.4953189168505507
+        }
+    ],
+    [
+        "expert68_neurips_30b_submission",
+        {
+            "MMLU - EM": 0.6311111111111112,
+            "TruthfulQA - EM": 0.6666666666666666,
+            "BBQ - EM": 0.7222222222222222,
+            "GSM8K - EM": null,
+            "BIG-bench - EM": 0.34582395382395376,
+            "Accuracy Mean Win Rate": 0.49206349206349204,
+            "MMLU - EM (Robustness)": 0.6125925925925927,
+            "TruthfulQA - EM (Robustness)": 0.6666666666666666,
+            "Robustness Mean Win Rate": 0.5238095238095238,
+            "MMLU - EM (Fairness)": 0.5844444444444445,
+            "TruthfulQA - EM (Fairness)": 0.6666666666666666,
+            "Fairness Mean Win Rate": 0.4603174603174603,
+            "Score": 0.4913798322847597
+        }
+    ],
+    [
+        "quyanh2005_neurips_llm_challenge_a100_mistral_7b_neurips_v2",
+        {
+            "MMLU - EM": 0.6012121212121213,
+            "TruthfulQA - EM": 0.6666666666666666,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.4888888888888889,
+            "MMLU - EM (Robustness)": 0.5793939393939394,
+            "TruthfulQA - EM (Robustness)": 0.6666666666666666,
+            "Robustness Mean Win Rate": 0.5,
+            "MMLU - EM (Fairness)": 0.5675757575757575,
+            "TruthfulQA - EM (Fairness)": 0.6666666666666666,
+            "Fairness Mean Win Rate": 0.46825396825396826,
+            "Score": 0.48553500479791495
+        }
+    ],
+    [
+        "quyanh2005_neurips_llm_challenge_a100_qwen_14b_neurips_v2",
+        {
+            "MMLU - EM": 0.5372727272727272,
+            "TruthfulQA - EM": 0.7777777777777778,
+            "BBQ - EM": 0.5,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.3309430014430014,
+            "Accuracy Mean Win Rate": 0.45714285714285713,
+            "MMLU - EM (Robustness)": 0.520909090909091,
+            "TruthfulQA - EM (Robustness)": 0.7777777777777778,
+            "Robustness Mean Win Rate": 0.4444444444444444,
+            "MMLU - EM (Fairness)": 0.5169696969696971,
+            "TruthfulQA - EM (Fairness)": 0.7777777777777778,
+            "Fairness Mean Win Rate": 0.4603174603174603,
+            "Score": 0.4539161374437736
+        }
+    ],
+    [
+        "matthewdouglas_neurips_llm_challenge_2023_inference",
+        {
+            "MMLU - EM": 0.6124242424242425,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.47368421052631576,
+            "BIG-bench - EM": 0.19058441558441555,
+            "Accuracy Mean Win Rate": 0.5714285714285714,
+            "MMLU - EM (Robustness)": 0.588181818181818,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.4126984126984127,
+            "MMLU - EM (Fairness)": 0.5733333333333333,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.38888888888888884,
+            "Score": 0.45096215265971057
+        }
+    ],
+    [
+        "matthewdouglas_neurips_llm_challenge_2023_inference2",
+        {
+            "MMLU - EM": 0.6239393939393941,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.9444444444444444,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.03424675324675325,
+            "Accuracy Mean Win Rate": 0.49523809523809526,
+            "MMLU - EM (Robustness)": 0.5845454545454545,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.4126984126984127,
+            "MMLU - EM (Fairness)": 0.5924242424242425,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.42857142857142855,
+            "Score": 0.44410945494803367
+        }
+    ],
+    [
+        "matthewdouglas_neurips_llm_challenge_2023_inference3",
+        {
+            "MMLU - EM": 0.6224242424242425,
+            "TruthfulQA - EM": 0.4444444444444444,
+            "BBQ - EM": 0.7222222222222222,
+            "GSM8K - EM": 0.47368421052631576,
+            "BIG-bench - EM": 0.18469155844155835,
+            "Accuracy Mean Win Rate": 0.5142857142857142,
+            "MMLU - EM (Robustness)": 0.6057575757575758,
+            "TruthfulQA - EM (Robustness)": 0.4444444444444444,
+            "Robustness Mean Win Rate": 0.3888888888888889,
+            "MMLU - EM (Fairness)": 0.5924242424242425,
+            "TruthfulQA - EM (Fairness)": 0.4444444444444444,
+            "Fairness Mean Win Rate": 0.373015873015873,
+            "Score": 0.4209712492391615
+        }
+    ],
+    [
+        "yshr_926_submission_neurips_llm_kyutech_jakee_2",
+        {
+            "MMLU - EM": 0.593939393939394,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.6111111111111112,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.4380952380952381,
+            "MMLU - EM (Robustness)": 0.5599999999999999,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.4206349206349206,
+            "MMLU - EM (Fairness)": 0.5278787878787877,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.38888888888888884,
+            "Score": 0.41536809112695194
+        }
+    ],
+    [
+        "hfvienna_unimportant_submission_a100_6_fine_tune_submission_a100_6_fine_tune",
+        {
+            "MMLU - EM": 0.6163636363636364,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 1.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.005,
+            "Accuracy Mean Win Rate": 0.4793650793650793,
+            "MMLU - EM (Robustness)": 0.5778787878787879,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.373015873015873,
+            "MMLU - EM (Fairness)": 0.5863636363636363,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.3968253968253968,
+            "Score": 0.41399750313144046
+        }
+    ],
+    [
+        "cx0llm_efficiency_submissiona100_tracka100_submission_2llama_recipes",
+        {
+            "MMLU - EM": 0.6096969696969697,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.8333333333333334,
+            "GSM8K - EM": 0.05263157894736842,
+            "BIG-bench - EM": 0.21182395382395378,
+            "Accuracy Mean Win Rate": 0.4952380952380952,
+            "MMLU - EM (Robustness)": 0.5651515151515153,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.3492063492063492,
+            "MMLU - EM (Fairness)": 0.5857575757575758,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.373015873015873,
+            "Score": 0.40105859641932684
+        }
+    ],
+    [
+        "yshr_926_submission_neurips_llm_kyutech_jakee_1",
+        {
+            "MMLU - EM": 0.5575757575757576,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.5555555555555556,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0022222222222222222,
+            "Accuracy Mean Win Rate": 0.419047619047619,
+            "MMLU - EM (Robustness)": 0.5403030303030303,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.36507936507936506,
+            "MMLU - EM (Fairness)": 0.5178787878787878,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.3571428571428571,
+            "Score": 0.3794584346998208
+        }
+    ],
+    [
+        "yshr_926_submission_neurips_llm_kyutech_jakee_3",
+        {
+            "MMLU - EM": 0.5681818181818182,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.5,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.4222222222222222,
+            "MMLU - EM (Robustness)": 0.5281818181818181,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.3571428571428571,
+            "MMLU - EM (Fairness)": 0.5133333333333332,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.3571428571428571,
+            "Score": 0.3776374080625642
+        }
+    ],
+    [
+        "liangtaiwan_neurips_llm_efficiency_challenge",
+        {
+            "MMLU - EM": 0.5872727272727272,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.7777777777777778,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.3365079365079365,
+            "MMLU - EM (Robustness)": 0.5527272727272726,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.3333333333333333,
+            "MMLU - EM (Fairness)": 0.5260606060606061,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.31746031746031744,
+            "Score": 0.3289938914513177
+        }
+    ],
+    [
+        "shin_ee_chen_neurips_llm_efficiency_challenge_dolly_51199iter_llama_2_13b_hf",
+        {
+            "MMLU - EM": 0.5372727272727271,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.3333333333333333,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.3142857142857143,
+            "MMLU - EM (Robustness)": 0.47424242424242413,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.30158730158730157,
+            "MMLU - EM (Fairness)": 0.48242424242424237,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.30158730158730157,
+            "Score": 0.3057620498554729
+        }
+    ],
+    [
+        "expert68_neruips_13b_submission",
+        {
+            "MMLU - EM": 0.5515151515151515,
+            "TruthfulQA - EM": 0.5555555555555556,
+            "BBQ - EM": 0.8333333333333334,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.22556421356421352,
+            "Accuracy Mean Win Rate": 0.3682539682539682,
+            "MMLU - EM (Robustness)": 0.4809090909090909,
+            "TruthfulQA - EM (Robustness)": 0.5555555555555556,
+            "Robustness Mean Win Rate": 0.26190476190476186,
+            "MMLU - EM (Fairness)": 0.5103030303030303,
+            "TruthfulQA - EM (Fairness)": 0.5555555555555556,
+            "Fairness Mean Win Rate": 0.2698412698412698,
+            "Score": 0.2963464533740932
+        }
+    ],
+    [
+        "euclaise_neurips_chal_repo_eval",
+        {
+            "MMLU - EM": 0.5824242424242424,
+            "TruthfulQA - EM": 0.4444444444444444,
+            "BBQ - EM": 0.5,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.01,
+            "Accuracy Mean Win Rate": 0.28253968253968254,
+            "MMLU - EM (Robustness)": 0.5545454545454545,
+            "TruthfulQA - EM (Robustness)": 0.4444444444444444,
+            "Robustness Mean Win Rate": 0.2857142857142857,
+            "MMLU - EM (Fairness)": 0.5627272727272726,
+            "TruthfulQA - EM (Fairness)": 0.4444444444444444,
+            "Fairness Mean Win Rate": 0.2936507936507936,
+            "Score": 0.28726377443344997
+        }
+    ],
+    [
+        "timothylimyl_ellm_llama_recipes_13b_rand",
+        {
+            "MMLU - EM": 0.47454545454545466,
+            "TruthfulQA - EM": 0.4444444444444444,
+            "BBQ - EM": 0.4444444444444444,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.382134199134199,
+            "Accuracy Mean Win Rate": 0.4126984126984127,
+            "MMLU - EM (Robustness)": 0.4551515151515152,
+            "TruthfulQA - EM (Robustness)": 0.4444444444444444,
+            "Robustness Mean Win Rate": 0.2222222222222222,
+            "MMLU - EM (Fairness)": 0.41727272727272735,
+            "TruthfulQA - EM (Fairness)": 0.4444444444444444,
+            "Fairness Mean Win Rate": 0.2222222222222222,
+            "Score": 0.27315087139529043
+        }
+    ],
+    [
+        "timothylimyl_ellm_llama_recipes_13b",
+        {
+            "MMLU - EM": 0.5227272727272727,
+            "TruthfulQA - EM": 0.4444444444444444,
+            "BBQ - EM": 0.5,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.29515367965367967,
+            "Accuracy Mean Win Rate": 0.38412698412698415,
+            "MMLU - EM (Robustness)": 0.4712121212121211,
+            "TruthfulQA - EM (Robustness)": 0.4444444444444444,
+            "Robustness Mean Win Rate": 0.2222222222222222,
+            "MMLU - EM (Fairness)": 0.4439393939393939,
+            "TruthfulQA - EM (Fairness)": 0.4444444444444444,
+            "Fairness Mean Win Rate": 0.2222222222222222,
+            "Score": 0.2666960579009691
+        }
+    ],
+    [
+        "jiofidelus_tsotsallm_tsotsallm_llama_recipes",
+        {
+            "MMLU - EM": 0.40212121212121216,
+            "TruthfulQA - EM": 0.3333333333333333,
+            "BBQ - EM": 0.5,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.011428571428571429,
+            "Accuracy Mean Win Rate": 0.2920634920634921,
+            "MMLU - EM (Robustness)": 0.34545454545454546,
+            "TruthfulQA - EM (Robustness)": 0.3333333333333333,
+            "Robustness Mean Win Rate": 0.18253968253968253,
+            "MMLU - EM (Fairness)": 0.3372727272727272,
+            "TruthfulQA - EM (Fairness)": 0.3333333333333333,
+            "Fairness Mean Win Rate": 0.18253968253968253,
+            "Score": 0.21349970786951086
+        }
+    ],
+    [
+        "weiwei_test",
+        {
+            "MMLU - EM": 0.2178787878787879,
+            "TruthfulQA - EM": 0.1111111111111111,
+            "BBQ - EM": 0.2222222222222222,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.005050505050505051,
+            "Accuracy Mean Win Rate": 0.3111111111111111,
+            "MMLU - EM (Robustness)": 0.17424242424242423,
+            "TruthfulQA - EM (Robustness)": 0.1111111111111111,
+            "Robustness Mean Win Rate": 0.14285714285714285,
+            "MMLU - EM (Fairness)": 0.14787878787878792,
+            "TruthfulQA - EM (Fairness)": 0.1111111111111111,
+            "Fairness Mean Win Rate": 0.14285714285714285,
+            "Score": 0.18517107476260808
+        }
+    ],
+    [
+        "goel96vibhor_neurips_llm_efficiency_challenge_sample_submissions_lit_gpt",
+        {
+            "MMLU - EM": 0.24818181818181823,
+            "TruthfulQA - EM": 0.2222222222222222,
+            "BBQ - EM": 0.2777777777777778,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.01702020202020202,
+            "Accuracy Mean Win Rate": 0.24444444444444444,
+            "MMLU - EM (Robustness)": 0.19939393939393943,
+            "TruthfulQA - EM (Robustness)": 0.2222222222222222,
+            "Robustness Mean Win Rate": 0.15873015873015872,
+            "MMLU - EM (Fairness)": 0.17454545454545453,
+            "TruthfulQA - EM (Fairness)": 0.2222222222222222,
+            "Fairness Mean Win Rate": 0.15873015873015872,
+            "Score": 0.1833016429034199
+        }
+    ],
+    [
+        "shin_ee_chen_neurips_llm_efficiency_challenge_flan15kdolly_51199iter_llama_2_13b_hf",
+        {
+            "MMLU - EM": 0.3503030303030303,
+            "TruthfulQA - EM": 0.1111111111111111,
+            "BBQ - EM": 0.05555555555555555,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.2507936507936508,
+            "MMLU - EM (Robustness)": 0.27575757575757576,
+            "TruthfulQA - EM (Robustness)": 0.1111111111111111,
+            "Robustness Mean Win Rate": 0.15079365079365079,
+            "MMLU - EM (Fairness)": 0.30606060606060603,
+            "TruthfulQA - EM (Fairness)": 0.1111111111111111,
+            "Fairness Mean Win Rate": 0.15079365079365079,
+            "Score": 0.17866009053280052
+        }
+    ],
+    [
+        "danintheory_neurips_llm_efficiency_challenge",
+        {
+            "MMLU - EM": 0.6136904761904761,
+            "TruthfulQA - EM": null,
+            "BBQ - EM": null,
+            "GSM8K - EM": null,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.1238095238095238,
+            "MMLU - EM (Robustness)": 0.555952380952381,
+            "TruthfulQA - EM (Robustness)": null,
+            "Robustness Mean Win Rate": 0.1984126984126984,
+            "MMLU - EM (Fairness)": 0.5696428571428571,
+            "TruthfulQA - EM (Fairness)": null,
+            "Fairness Mean Win Rate": 0.21428571428571427,
+            "Score": 0.17395579938244765
+        }
+    ],
+    [
+        "vinairesearch_vinai_neurips_llm_efficiency_submit_b",
+        {
+            "MMLU - EM": 0.0,
+            "TruthfulQA - EM": 0.0,
+            "BBQ - EM": 0.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.26031746031746034,
+            "MMLU - EM (Robustness)": 0.0,
+            "TruthfulQA - EM (Robustness)": 0.0,
+            "Robustness Mean Win Rate": 0.1111111111111111,
+            "MMLU - EM (Fairness)": 0.0,
+            "TruthfulQA - EM (Fairness)": 0.0,
+            "Fairness Mean Win Rate": 0.1111111111111111,
+            "Score": 0.14757272378791078
+        }
+    ],
+    [
+        "shin_ee_chen_neurips_llm_efficiency_challenge_flanfull_dolly_500k_iter_llama_2_7b_hf",
+        {
+            "MMLU - EM": 0.05242424242424243,
+            "TruthfulQA - EM": 0.0,
+            "BBQ - EM": 0.0,
+            "GSM8K - EM": 0.0,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.23492063492063492,
+            "MMLU - EM (Robustness)": 0.006060606060606061,
+            "TruthfulQA - EM (Robustness)": 0.0,
+            "Robustness Mean Win Rate": 0.1111111111111111,
+            "MMLU - EM (Fairness)": 0.026666666666666665,
+            "TruthfulQA - EM (Fairness)": 0.0,
+            "Fairness Mean Win Rate": 0.1111111111111111,
+            "Score": 0.1426084903103171
+        }
+    ],
+    [
+        "hfvienna_unimportant_submission_a100_4_70b_submission_a100_3_70b",
+        {
+            "MMLU - EM": null,
+            "TruthfulQA - EM": null,
+            "BBQ - EM": null,
+            "GSM8K - EM": null,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.1365079365079365,
+            "MMLU - EM (Robustness)": null,
+            "TruthfulQA - EM (Robustness)": null,
+            "Robustness Mean Win Rate": 0.0873015873015873,
+            "MMLU - EM (Fairness)": null,
+            "TruthfulQA - EM (Fairness)": null,
+            "Fairness Mean Win Rate": 0.0873015873015873,
+            "Score": 0.1013290709137941
+        }
+    ],
+    [
+        "datta0_neurips_submission_3",
+        {
+            "MMLU - EM": null,
+            "TruthfulQA - EM": null,
+            "BBQ - EM": null,
+            "GSM8K - EM": null,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.09523809523809523,
+            "MMLU - EM (Robustness)": null,
+            "TruthfulQA - EM (Robustness)": null,
+            "Robustness Mean Win Rate": 0.07142857142857142,
+            "MMLU - EM (Fairness)": null,
+            "TruthfulQA - EM (Fairness)": null,
+            "Fairness Mean Win Rate": 0.07142857142857142,
+            "Score": 0.07861731544987206
+        }
+    ],
+    [
+        "datta0_neurips_submission_2",
+        {
+            "MMLU - EM": null,
+            "TruthfulQA - EM": null,
+            "BBQ - EM": null,
+            "GSM8K - EM": null,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.07936507936507936,
+            "MMLU - EM (Robustness)": null,
+            "TruthfulQA - EM (Robustness)": null,
+            "Robustness Mean Win Rate": 0.05555555555555555,
+            "MMLU - EM (Fairness)": null,
+            "TruthfulQA - EM (Fairness)": null,
+            "Fairness Mean Win Rate": 0.05555555555555555,
+            "Score": 0.06256932669131142
+        }
+    ],
+    [
+        "datta0_neurips_submission_1",
+        {
+            "MMLU - EM": null,
+            "TruthfulQA - EM": null,
+            "BBQ - EM": null,
+            "GSM8K - EM": null,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.06349206349206349,
+            "MMLU - EM (Robustness)": null,
+            "TruthfulQA - EM (Robustness)": null,
+            "Robustness Mean Win Rate": 0.03968253968253968,
+            "MMLU - EM (Fairness)": null,
+            "TruthfulQA - EM (Fairness)": null,
+            "Fairness Mean Win Rate": 0.03968253968253968,
+            "Score": 0.04641297997163279
+        }
+    ],
+    [
+        "datta0_neurips_submission",
+        {
+            "MMLU - EM": null,
+            "TruthfulQA - EM": null,
+            "BBQ - EM": null,
+            "GSM8K - EM": null,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.047619047619047616,
+            "MMLU - EM (Robustness)": null,
+            "TruthfulQA - EM (Robustness)": null,
+            "Robustness Mean Win Rate": 0.023809523809523808,
+            "MMLU - EM (Fairness)": null,
+            "TruthfulQA - EM (Fairness)": null,
+            "Fairness Mean Win Rate": 0.023809523809523808,
+            "Score": 0.02999812023559221
+        }
+    ],
+    [
+        "cx0llm_efficiency_submissiona100_tracka100_submission_3llama_recipes",
+        {
+            "MMLU - EM": null,
+            "TruthfulQA - EM": null,
+            "BBQ - EM": null,
+            "GSM8K - EM": null,
+            "BIG-bench - EM": 0.0,
+            "Accuracy Mean Win Rate": 0.019047619047619046,
+            "MMLU - EM (Robustness)": null,
+            "TruthfulQA - EM (Robustness)": null,
+            "Robustness Mean Win Rate": 0.0,
+            "MMLU - EM (Fairness)": null,
+            "TruthfulQA - EM (Fairness)": null,
+            "Fairness Mean Win Rate": 0.0,
+            "Score": 7.747055550875013e-217
+        }
+    ]
+]
